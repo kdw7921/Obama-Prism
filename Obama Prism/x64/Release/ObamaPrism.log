@@ -1,0 +1,15 @@
+﻿  d3dApp.cpp
+  d3dUtil.cpp
+  DDSTextureLoader.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+c:\users\kdw79\source\repos\obama prism\common\geometrygenerator.cpp(700): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  MathHelper.cpp
+  ObamaApp.cpp
+c:\users\kdw79\source\repos\obama prism\obamaapp.cpp(392): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kdw79\source\repos\obama prism\obamaapp.cpp(404): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  FrameResource.cpp
+  코드를 생성하고 있습니다.
+  All 2662 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  ObamaPrism.vcxproj -> C:\Users\kdw79\source\repos\Obama Prism\x64\Release\ObamaPrism.exe
